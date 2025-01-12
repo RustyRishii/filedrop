@@ -4,6 +4,7 @@ export default function Home() {
   return (
     <div>
       Welcome to file drop
+      <button>upload</button>
     </div>
   );
 }
