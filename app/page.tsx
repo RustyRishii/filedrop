@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div>
       Welcome to file drop
-      <button>upoad a</button>
+      <button>upoad a file please</button>
     </div>
   );
 }
